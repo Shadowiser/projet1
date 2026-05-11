@@ -1,0 +1,1 @@
+<footer> &copy; SHadowiser, Tous droits réservés</footer>
