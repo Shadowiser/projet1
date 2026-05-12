@@ -1,1 +1,3 @@
-<footer> &copy; SHadowiser, Tous droits réservés</footer>
+<footer>
+    <p>&copy; SHadowiser, Tous droits réservés</p>
+</footer>

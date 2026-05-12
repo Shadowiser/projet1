@@ -12,7 +12,6 @@
     <?php
     include("./assets/nav.php");
     include("./assets/header.php");
-    include("./assets/footer.php")
     ?>
     <div id="container">
         <section>
@@ -44,7 +43,11 @@
                 </div>
                 <button>Envoyer le message</button>
             </form>
+
         </section>
+        <?php
+        include("./assets/footer.php")
+        ?>
     </div>
 </body>
 
